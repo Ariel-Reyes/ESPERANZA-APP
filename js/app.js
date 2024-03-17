@@ -41,6 +41,11 @@ var app = new Framework7({
 					url: 'actividades.html',
 					name: 'actividades',
 					  },
+					  {
+						path: '/perfil-dos/',
+						url: 'perfil-dos.html',
+						name: 'perfil-dos',
+						  },
 		
 		
 		

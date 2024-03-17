@@ -81,5 +81,140 @@ text-align: center;
 }
 
 
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #B8D2DD; /*navbar*/
+	--f7-navbar-link-color: #2B596D; /*navbar link*/
+	--f7-navbar-text-color:#000;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	
+}
+
+
+
+
+
+.img-fluid{
+	max-width: 100%;
+}
+
+
+.card{
+	background-color: #E5E5E5;
+}
+
+.button{
+	background-color: #92B7CC;
+	color: #000;
+	margin-left: 1%;
+	border-radius: 50px;
+}
+
+
+
+.tarjeta-principal h2{
+	text-align: center;
+}
+
+.tarjeta-principal p{
+	text-align: center;
+	font-size: 15px;
+}
+
+.tarjetas-menores h3{
+text-align: center;
+}
+
+.tarjetas-menores p{
+	text-align: center;
+	font-size: 13px;
+}
+
+.poppins-regular {
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+
+ 
+  #panel-perfil h4{
+	text-align: center;
+	font-weight: 600;
+  }
+
+  #panel-perfil p{
+	text-align: left;
+	font-size: 10px;
+  }
+
+  #panel-perfil .card{
+	padding-left: 8%;
+  }
+
+.toolbar{
+	background-color: #B8D2DD;
+}
+
+
+#us h2{
+	text-align: center;
+}
+
+.centro{
+	text-align: center;
+}
+
+.content-perfil{
+	padding: 10% 0;
+}
+
+.content-perfil p{
+	margin: 2% 0;
+}
+
+.content-perfil h2{
+	margin: 2% 0;
+}
+
+.circulo{
+	border-radius: 50%;
+	width: 90px;
+	height: 90px;
+	padding: 0% !important; 
+}
+
+.container{
+	padding: 0 10%;
+}
+
+.container-card{
+	padding: 5% 10%;
+}
+.aso{
+	margin: 0% !important; 
+}
+
+#historial h5{
+	padding: 10px;
+}
+
+.dinero{
+	background-color: #87A5B2;
+}
+
+.icon{
+	font-size: 20px;
+	margin: 0 0;
+	padding: 0 0;
+}
+
+#monto p{
+	font-size: 20px;
+	margin: 0  0;
+	padding: 0 0;
+}
 
 
