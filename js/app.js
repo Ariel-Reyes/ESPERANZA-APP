@@ -26,6 +26,22 @@ var app = new Framework7({
     	url: 'aboutus.html',
     	name: 'aboutus',
   		},
+		  {
+			path: '/dashboard/',
+			url: 'dashboard.html',
+			name: 'dashboard',
+			  },
+			  {
+				path: '/perfilong/',
+				url: 'perfilong.html',
+				name: 'perfilong',
+				  },
+				  {
+					path: '/actividades/',
+					url: 'actividades.html',
+					name: 'actividades',
+					  },
+		
 		
 		
 	],
